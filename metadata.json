@@ -1,0 +1,7 @@
+{
+  "name": "HealthAppTracker",
+  "description": "A comprehensive personal health tracking and education platform featuring real-time vital monitoring, condition reports, and doctor discovery with AI-powered health insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
